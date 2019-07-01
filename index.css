@@ -1,0 +1,61 @@
+img{
+    display: flex;
+    width: 15%;
+    height: 25vh;
+    margin: 0;
+    text-align: center;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;
+    color: white;
+    border-top: 1px solid rgb(71, 24, 71);
+    border-bottom: 1px solid rgb(83, 24, 83);
+}
+
+h2{
+    text-align: center;
+    color: black;
+    width: 100%;
+    margin: 20px;
+}
+
+body{
+    background-image: url(images/ciel.jpg);
+    background-repeat: no-repeat;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-self: flex-end;
+    color: black;
+    position: absolute;
+    bottom: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.title{
+    color: violet;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.box{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 6px 6px 6px black;
+    width: 40%;
+    margin: 15px;
+    padding: 10px;
+    text-align: justify;
+}
