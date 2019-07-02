@@ -10,7 +10,6 @@ nav{
     flex-direction: row;
     justify-content: space-around;
     padding: 10px;
-    color: white;
     border-top: 1px solid rgb(71, 24, 71);
     border-bottom: 1px solid rgb(83, 24, 83);
 }
