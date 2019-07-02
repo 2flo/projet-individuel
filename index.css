@@ -19,6 +19,10 @@ nav:hover{
     color: green;
 }
 
+nav:active{
+    background-color: rgb(231, 56, 56);
+}
+
 h2{
     text-align: center;
     color: black;
