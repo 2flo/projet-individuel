@@ -25,6 +25,7 @@ h2{
 body{
     background-image: url(images/ciel.jpg);
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 footer{
