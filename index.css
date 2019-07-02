@@ -89,3 +89,10 @@ footer{
     width: 90%;
     margin: auto;
 }
+
+@media screen and (min-width: 580px) and (max-width: 1280px){
+    nav{
+        display: flex;
+        flex-direction: column;
+    }
+}
