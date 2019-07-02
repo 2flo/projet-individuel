@@ -20,7 +20,7 @@ nav:hover{
 }
 
 nav:active{
-    background-color: rgb(231, 56, 56);
+    color: rgb(231, 56, 56);
 }
 
 h2{
