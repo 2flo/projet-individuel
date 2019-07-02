@@ -59,3 +59,21 @@ footer{
     padding: 10px;
     text-align: justify;
 }
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.adress{
+    border: 1px solid black;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 6px 6px 6px black;
+    width: 70%;
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+}
