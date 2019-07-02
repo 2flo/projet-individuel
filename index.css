@@ -95,6 +95,11 @@ p{
     font-size: 2em;
 }
 
+.foot{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+
 @media screen and (min-width: 280px) and (max-width: 1280px){
     nav{
         display: flex;
