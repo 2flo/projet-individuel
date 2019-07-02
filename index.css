@@ -23,6 +23,9 @@ nav:active{
     color: rgb(231, 56, 56);
 }
 
+nav:visited{
+    color: rgb(49, 163, 49);
+}
 h2{
     text-align: center;
     color: black;
