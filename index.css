@@ -92,7 +92,7 @@ footer{
 
 p{
     font-family: 'Pacifico', cursive;
-    font-size: 5em;
+    font-size: 2em;
 }
 
 @media screen and (min-width: 280px) and (max-width: 1280px){
