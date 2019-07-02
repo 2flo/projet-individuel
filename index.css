@@ -79,3 +79,12 @@ footer{
     padding: 20px;
     text-align: center;
 }
+
+.block{
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+    box-shadow: 6px 6px 6px black;
+    width: 90%;
+}
