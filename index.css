@@ -90,6 +90,10 @@ footer{
     margin: auto;
 }
 
+p{
+    font-family: 'Pacifico', cursive;
+}
+
 @media screen and (min-width: 280px) and (max-width: 1280px){
     nav{
         display: flex;
