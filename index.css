@@ -31,7 +31,6 @@ h2{
     color: black;
     width: 100%;
     margin: 20px;
-    font-size: 3em;
 }
 
 body{
@@ -61,6 +60,7 @@ footer{
     color: violet;
     text-decoration: underline;
     text-align: center;
+    font-size: 3em;
 }
 
 .box{
