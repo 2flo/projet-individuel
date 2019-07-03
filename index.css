@@ -2,8 +2,7 @@ img{
     display: flex;
     width: 35%;
     height: 35vh;
-    margin: 0;
-    text-align: center;
+    margin: auto;
 }
 nav{
     display: flex;
