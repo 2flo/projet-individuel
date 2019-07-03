@@ -31,6 +31,8 @@ h2{
     color: black;
     width: 100%;
     margin: 20px;
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 4em;
 }
 
 body{
@@ -104,7 +106,7 @@ footer{
 }
 
 p{
-    font-family: 'Pacifico', cursive;
+    font-family: 'Mountains of Christmas', cursive;
     font-size: 2em;
 }
 
