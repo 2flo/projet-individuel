@@ -115,6 +115,10 @@ p{
     font-size: 2em;
 }
 
+.conventionnal{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 @media screen and (min-width: 280px) and (max-width: 1280px){
     nav{
         display: flex;
