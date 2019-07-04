@@ -15,7 +15,7 @@ nav{
     font-size: 1em;
 }
 
-.navli: a:hover{
+nav:hover{
     text-decoration: underline;
     color: green;
     position: relative;
