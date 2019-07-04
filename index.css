@@ -15,8 +15,7 @@ nav{
     font-size: 1em;
 }
 
-nav:hover{
-    text-decoration: underline;
+a:hover{
     position: relative;
     bottom: 1em;
 }
