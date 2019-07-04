@@ -17,7 +17,6 @@ nav{
 
 nav:hover{
     text-decoration: underline;
-    color: green;
     position: relative;
     bottom: 1em;
 }
@@ -76,6 +75,8 @@ footer{
     margin: 50px;
     padding: 20px;
     text-align: justify;
+    position: relative;
+    bottom: 1em;
 }
 
 .contact{
