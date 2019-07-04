@@ -9,15 +9,15 @@ nav{
     flex-direction: row;
     justify-content: space-around;
     padding: 10px;
-    border-top: 1px solid rgb(71, 24, 71);
-    border-bottom: 1px solid rgb(83, 24, 83);
+    border-top: 2px solid rgb(71, 24, 71);
+    border-bottom: 2px solid rgb(83, 24, 83);
     font-family: 'Cinzel', serif;
     font-size: 1em;
 }
 
 a:hover{
     position: relative;
-    bottom: 0,5em;
+    bottom: 1em;
 }
 
 nav:active{
