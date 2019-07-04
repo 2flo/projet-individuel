@@ -75,6 +75,9 @@ footer{
     margin: 50px;
     padding: 20px;
     text-align: justify;
+}
+
+.box:hover{
     position: relative;
     bottom: 1em;
 }
